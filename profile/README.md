@@ -20,4 +20,4 @@ We perform the merge every time you click "merge pull request".
 Linking Exception).  This basically means that you can link it (unmodified)
 with any kind of software without having to release its source code.
 Additionally, the example code has been released to the public domain (see the
-[separate license](examples/COPYING) for more information).
+[separate license](https://github.com/libgit2/libgit2/blob/main/examples/COPYING) for more information).
